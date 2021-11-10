@@ -8,11 +8,11 @@ El documento se compone principalmente de:
 - Readme.md explicativo.
 
 La principales librerías que he utilizado son:
-import json
-from requests import api
-from api_functions import getApiInfo
-from cleaning_functions import read_dataset
-import seaborn as sns
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
+import json, 
+from requests import api, 
+from api_functions import getApiInfo, 
+from cleaning_functions import read_dataset, 
+import seaborn as sns, 
+import matplotlib.pyplot as plt, 
+import numpy as np, 
+import pandas as pd.
